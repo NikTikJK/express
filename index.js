@@ -14,7 +14,7 @@ const transporter = nodemailer.createTransport({
   secure: true,
   auth: {
     user: user, 
-    pass: '9wn2QBh9g4b9E5Mgn9ki' //пароль для внешнего приложения вашей посты
+    pass: '' //пароль для внешнего приложения вашей посты
   }
 })
 
